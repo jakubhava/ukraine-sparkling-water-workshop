@@ -4,3 +4,5 @@ sparkling-water-2.3.15.zip
 .DS_Store
 .ipynb_checkpoints/
 h2ologs/
+metastore_db
+derby.log

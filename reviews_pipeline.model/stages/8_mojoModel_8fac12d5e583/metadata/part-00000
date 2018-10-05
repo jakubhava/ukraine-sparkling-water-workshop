@@ -1,0 +1,1 @@
+{"class":"py_sparkling.ml.models.H2OMOJOModel","timestamp":1538767501660,"sparkVersion":"2.3.2","uid":"mojoModel_8fac12d5e583","paramMap":{"convertUnknownCategoricalLevelsToNa":false,"featuresCols":["tf_idf_frequencies"],"predictionCol":"Sentiment","outputCol":"prediction_output"}}
