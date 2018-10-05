@@ -2,3 +2,5 @@ ukraine_env/
 sparkling-water-2.3.15/
 sparkling-water-2.3.15.zip
 .DS_Store
+.ipynb_checkpoints/
+h2ologs/
